@@ -1,4 +1,4 @@
-# Hi I am Hiruni 🌞
+# Hi I am Hiruni Mudannayake
 
 I am a Software Engineer learning various different stuff in the field. My favourites are React & .NET
 
